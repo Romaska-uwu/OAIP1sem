@@ -1,0 +1,24 @@
+﻿Сборка начата 21.04.2024 18:12:55.
+Уровень детализации журнала: Normal.     1>Проект "D:\УНИВЕРСИТЕТ\Семестр 1\Лабораторная работа\ОАиП\laba-4\L4-V3\L4-V3-Z1\L4-V3-Z1\L4-V3-Z1.vcxproj" в узле 2 (целевые объекты ClCompile).
+     1>PrepareForBuild:
+         Создание каталога "D:\УНИВЕРСИТЕТ\Семестр 1\Лабораторная работа\ОАиП\laba-4\L4-V3\L4-V3-Z1\x64\Debug\".
+         Создание каталога "x64\Debug\L4-V3-Z1.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\L4-V3-Z1.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\L4-V3-Z1.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt "L4-V3-Z1.cpp"
+         L4-V3-Z1.cpp
+     1>D:\УНИВЕРСИТЕТ\Семестр 1\Лабораторная работа\ОАиП\laba-4\L4-V3\L4-V3-Z1\L4-V3-Z1\L4-V3-Z1.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     1>Сборка проекта "D:\УНИВЕРСИТЕТ\Семестр 1\Лабораторная работа\ОАиП\laba-4\L4-V3\L4-V3-Z1\L4-V3-Z1\L4-V3-Z1.vcxproj" завершена (целевые объекты ClCompile).
+
+Сборка успешно завершена.
+
+       "D:\УНИВЕРСИТЕТ\Семестр 1\Лабораторная работа\ОАиП\laba-4\L4-V3\L4-V3-Z1\L4-V3-Z1\L4-V3-Z1.vcxproj" (целевой объект ClCompile ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\УНИВЕРСИТЕТ\Семестр 1\Лабораторная работа\ОАиП\laba-4\L4-V3\L4-V3-Z1\L4-V3-Z1\L4-V3-Z1.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:10.23
