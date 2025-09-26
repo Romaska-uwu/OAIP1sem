@@ -1,0 +1,24 @@
+﻿Сборка начата 28.11.2023 18:25:52.
+Уровень детализации журнала: Normal.     1>Проект "D:\УНИВЕРСИТЕТ\Лабалаторные работы\Лр ОАиП\ЛР ОАиП №13\ЛР ОАиП №13\ЛР ОАиП №13.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "x64\Debug\ЛР ОАиП №13.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt "ЛР ОАиП №13.cpp"
+         ЛР ОАиП №13.cpp
+     1>D:\УНИВЕРСИТЕТ\Лабалаторные работы\Лр ОАиП\ЛР ОАиП №13\ЛР ОАиП №13\ЛР ОАиП №13.cpp(5,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>D:\УНИВЕРСИТЕТ\Лабалаторные работы\Лр ОАиП\ЛР ОАиП №13\ЛР ОАиП №13\ЛР ОАиП №13.cpp(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>D:\УНИВЕРСИТЕТ\Лабалаторные работы\Лр ОАиП\ЛР ОАиП №13\ЛР ОАиП №13\ЛР ОАиП №13.cpp(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>Сборка проекта "D:\УНИВЕРСИТЕТ\Лабалаторные работы\Лр ОАиП\ЛР ОАиП №13\ЛР ОАиП №13\ЛР ОАиП №13.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\УНИВЕРСИТЕТ\Лабалаторные работы\Лр ОАиП\ЛР ОАиП №13\ЛР ОАиП №13\ЛР ОАиП №13.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\УНИВЕРСИТЕТ\Лабалаторные работы\Лр ОАиП\ЛР ОАиП №13\ЛР ОАиП №13\ЛР ОАиП №13.cpp(5,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         D:\УНИВЕРСИТЕТ\Лабалаторные работы\Лр ОАиП\ЛР ОАиП №13\ЛР ОАиП №13\ЛР ОАиП №13.cpp(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         D:\УНИВЕРСИТЕТ\Лабалаторные работы\Лр ОАиП\ЛР ОАиП №13\ЛР ОАиП №13\ЛР ОАиП №13.cpp(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+
+    Предупреждений: 0
+    Ошибок: 3
+
+Прошло времени 00:00:02.71
